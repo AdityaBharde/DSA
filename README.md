@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/AdityaBharde/DSA/tree/master/0344-reverse-string) |
+## Array
+|  |
+| ------- |
+| [2876-number-of-employees-who-met-the-target](https://github.com/AdityaBharde/DSA/tree/master/2876-number-of-employees-who-met-the-target) |
 <!---LeetCode Topics End-->
