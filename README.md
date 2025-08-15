@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/AdityaBharde/DSA/tree/master/0344-reverse-string) |
 | [1078-remove-outermost-parentheses](https://github.com/AdityaBharde/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/AdityaBharde/DSA/tree/master/1205-defanging-an-ip-address) |
+| [3379-score-of-a-string](https://github.com/AdityaBharde/DSA/tree/master/3379-score-of-a-string) |
 ## Array
 |  |
 | ------- |
