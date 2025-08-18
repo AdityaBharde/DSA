@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/AdityaBharde/DSA/tree/master/0410-split-array-largest-sum) |
+| [2058-concatenation-of-array](https://github.com/AdityaBharde/DSA/tree/master/2058-concatenation-of-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/AdityaBharde/DSA/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Binary Search
 |  |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/AdityaBharde/DSA/tree/master/1078-remove-outermost-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/AdityaBharde/DSA/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
