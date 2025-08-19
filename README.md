@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AdityaBharde/DSA/tree/master/0078-subsets) |
 | [0342-power-of-four](https://github.com/AdityaBharde/DSA/tree/master/0342-power-of-four) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AdityaBharde/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/AdityaBharde/DSA/tree/master/1610-xor-operation-in-an-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AdityaBharde/DSA/tree/master/0054-spiral-matrix) |
+| [0078-subsets](https://github.com/AdityaBharde/DSA/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/AdityaBharde/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0204-count-primes](https://github.com/AdityaBharde/DSA/tree/master/0204-count-primes) |
 | [0410-split-array-largest-sum](https://github.com/AdityaBharde/DSA/tree/master/0410-split-array-largest-sum) |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AdityaBharde/DSA/tree/master/0204-count-primes) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/AdityaBharde/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
