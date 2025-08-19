@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/AdityaBharde/DSA/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/AdityaBharde/DSA/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/AdityaBharde/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/AdityaBharde/DSA/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/AdityaBharde/DSA/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/AdityaBharde/DSA/tree/master/1013-fibonacci-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/AdityaBharde/DSA/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/AdityaBharde/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0204-count-primes](https://github.com/AdityaBharde/DSA/tree/master/0204-count-primes) |
 | [0410-split-array-largest-sum](https://github.com/AdityaBharde/DSA/tree/master/0410-split-array-largest-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdityaBharde/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/AdityaBharde/DSA/tree/master/1293-three-consecutive-odds) |
@@ -152,9 +154,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/AdityaBharde/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/AdityaBharde/DSA/tree/master/0258-add-digits) |
 ## Memoization
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/AdityaBharde/DSA/tree/master/1013-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AdityaBharde/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
