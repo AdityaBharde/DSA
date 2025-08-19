@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/AdityaBharde/DSA/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AdityaBharde/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3194-find-words-containing-character](https://github.com/AdityaBharde/DSA/tree/master/3194-find-words-containing-character) |
+| [3312-number-of-changing-keys](https://github.com/AdityaBharde/DSA/tree/master/3312-number-of-changing-keys) |
 | [3379-score-of-a-string](https://github.com/AdityaBharde/DSA/tree/master/3379-score-of-a-string) |
 ## Array
 |  |
