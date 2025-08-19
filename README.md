@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AdityaBharde/DSA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/AdityaBharde/DSA/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/AdityaBharde/DSA/tree/master/2812-find-the-maximum-achievable-number) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/AdityaBharde/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/AdityaBharde/DSA/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/AdityaBharde/DSA/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/AdityaBharde/DSA/tree/master/3226-minimum-number-game) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/AdityaBharde/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Binary Search
 |  |
 | ------- |
