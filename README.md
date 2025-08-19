@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/AdityaBharde/DSA/tree/master/0007-reverse-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AdityaBharde/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/AdityaBharde/DSA/tree/master/1635-number-of-good-pairs) |
+| [2752-sum-multiples](https://github.com/AdityaBharde/DSA/tree/master/2752-sum-multiples) |
 ## Bit Manipulation
 |  |
 | ------- |
