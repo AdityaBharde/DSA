@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/AdityaBharde/DSA/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/AdityaBharde/DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/AdityaBharde/DSA/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/AdityaBharde/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/AdityaBharde/DSA/tree/master/0258-add-digits) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/AdityaBharde/DSA/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/AdityaBharde/DSA/tree/master/0078-subsets) |
 | [0342-power-of-four](https://github.com/AdityaBharde/DSA/tree/master/0342-power-of-four) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AdityaBharde/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
