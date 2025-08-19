@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AdityaBharde/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0410-split-array-largest-sum](https://github.com/AdityaBharde/DSA/tree/master/0410-split-array-largest-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdityaBharde/DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [1293-three-consecutive-odds](https://github.com/AdityaBharde/DSA/tree/master/1293-three-consecutive-odds) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AdityaBharde/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/AdityaBharde/DSA/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/AdityaBharde/DSA/tree/master/1603-running-sum-of-1d-array) |
