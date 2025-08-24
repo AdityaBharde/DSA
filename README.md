@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/AdityaBharde/DSA/tree/master/1833-find-the-highest-altitude) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/AdityaBharde/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1983-maximum-population-year](https://github.com/AdityaBharde/DSA/tree/master/1983-maximum-population-year) |
+| [2048-build-array-from-permutation](https://github.com/AdityaBharde/DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/AdityaBharde/DSA/tree/master/2058-concatenation-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AdityaBharde/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AdityaBharde/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AdityaBharde/DSA/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/AdityaBharde/DSA/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/AdityaBharde/DSA/tree/master/0657-robot-return-to-origin) |
+| [2048-build-array-from-permutation](https://github.com/AdityaBharde/DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/AdityaBharde/DSA/tree/master/2058-concatenation-of-array) |
 | [3226-minimum-number-game](https://github.com/AdityaBharde/DSA/tree/master/3226-minimum-number-game) |
 ## Matrix
