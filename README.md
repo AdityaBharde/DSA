@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/AdityaBharde/DSA/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/AdityaBharde/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/AdityaBharde/DSA/tree/master/1635-number-of-good-pairs) |
+| [1829-maximum-units-on-a-truck](https://github.com/AdityaBharde/DSA/tree/master/1829-maximum-units-on-a-truck) |
 | [1833-find-the-highest-altitude](https://github.com/AdityaBharde/DSA/tree/master/1833-find-the-highest-altitude) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/AdityaBharde/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1983-maximum-population-year](https://github.com/AdityaBharde/DSA/tree/master/1983-maximum-population-year) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/AdityaBharde/DSA/tree/master/0410-split-array-largest-sum) |
+| [1829-maximum-units-on-a-truck](https://github.com/AdityaBharde/DSA/tree/master/1829-maximum-units-on-a-truck) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/AdityaBharde/DSA/tree/master/0169-majority-element) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdityaBharde/DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [1829-maximum-units-on-a-truck](https://github.com/AdityaBharde/DSA/tree/master/1829-maximum-units-on-a-truck) |
 | [3226-minimum-number-game](https://github.com/AdityaBharde/DSA/tree/master/3226-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
