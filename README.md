@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/AdityaBharde/DSA/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/AdityaBharde/DSA/tree/master/0078-subsets) |
 | [0342-power-of-four](https://github.com/AdityaBharde/DSA/tree/master/0342-power-of-four) |
+| [0861-flipping-an-image](https://github.com/AdityaBharde/DSA/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AdityaBharde/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/AdityaBharde/DSA/tree/master/1610-xor-operation-in-an-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AdityaBharde/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AdityaBharde/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/AdityaBharde/DSA/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/AdityaBharde/DSA/tree/master/0344-reverse-string) |
+| [0861-flipping-an-image](https://github.com/AdityaBharde/DSA/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdityaBharde/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/AdityaBharde/DSA/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AdityaBharde/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AdityaBharde/DSA/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/AdityaBharde/DSA/tree/master/0204-count-primes) |
 | [0410-split-array-largest-sum](https://github.com/AdityaBharde/DSA/tree/master/0410-split-array-largest-sum) |
+| [0861-flipping-an-image](https://github.com/AdityaBharde/DSA/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdityaBharde/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/AdityaBharde/DSA/tree/master/1293-three-consecutive-odds) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AdityaBharde/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AdityaBharde/DSA/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/AdityaBharde/DSA/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/AdityaBharde/DSA/tree/master/0657-robot-return-to-origin) |
+| [0861-flipping-an-image](https://github.com/AdityaBharde/DSA/tree/master/0861-flipping-an-image) |
 | [2048-build-array-from-permutation](https://github.com/AdityaBharde/DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/AdityaBharde/DSA/tree/master/2058-concatenation-of-array) |
 | [3226-minimum-number-game](https://github.com/AdityaBharde/DSA/tree/master/3226-minimum-number-game) |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AdityaBharde/DSA/tree/master/0054-spiral-matrix) |
+| [0861-flipping-an-image](https://github.com/AdityaBharde/DSA/tree/master/0861-flipping-an-image) |
 ## Hash Table
 |  |
 | ------- |
