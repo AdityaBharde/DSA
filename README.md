@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/AdityaBharde/DSA/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/AdityaBharde/DSA/tree/master/3226-minimum-number-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/AdityaBharde/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3778-transform-array-by-parity](https://github.com/AdityaBharde/DSA/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AdityaBharde/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/AdityaBharde/DSA/tree/master/1635-number-of-good-pairs) |
 | [1983-maximum-population-year](https://github.com/AdityaBharde/DSA/tree/master/1983-maximum-population-year) |
+| [3778-transform-array-by-parity](https://github.com/AdityaBharde/DSA/tree/master/3778-transform-array-by-parity) |
 ## Linked List
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/AdityaBharde/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/AdityaBharde/DSA/tree/master/1829-maximum-units-on-a-truck) |
 | [3226-minimum-number-game](https://github.com/AdityaBharde/DSA/tree/master/3226-minimum-number-game) |
+| [3778-transform-array-by-parity](https://github.com/AdityaBharde/DSA/tree/master/3778-transform-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
