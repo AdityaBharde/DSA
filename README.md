@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AdityaBharde/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/AdityaBharde/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/AdityaBharde/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/AdityaBharde/DSA/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/AdityaBharde/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AdityaBharde/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/AdityaBharde/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/AdityaBharde/DSA/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/AdityaBharde/DSA/tree/master/0657-robot-return-to-origin) |
 | [0861-flipping-an-image](https://github.com/AdityaBharde/DSA/tree/master/0861-flipping-an-image) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AdityaBharde/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/AdityaBharde/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0861-flipping-an-image](https://github.com/AdityaBharde/DSA/tree/master/0861-flipping-an-image) |
 ## Hash Table
 |  |
