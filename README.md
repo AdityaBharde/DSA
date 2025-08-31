@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/AdityaBharde/DSA/tree/master/0657-robot-return-to-origin) |
 | [1078-remove-outermost-parentheses](https://github.com/AdityaBharde/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/AdityaBharde/DSA/tree/master/1205-defanging-an-ip-address) |
+| [1250-longest-common-subsequence](https://github.com/AdityaBharde/DSA/tree/master/1250-longest-common-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/AdityaBharde/DSA/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AdityaBharde/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AdityaBharde/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/AdityaBharde/DSA/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/AdityaBharde/DSA/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/AdityaBharde/DSA/tree/master/1250-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
