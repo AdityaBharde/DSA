@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AdityaBharde/DSA/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/AdityaBharde/DSA/tree/master/0204-count-primes) |
 | [0410-split-array-largest-sum](https://github.com/AdityaBharde/DSA/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/AdityaBharde/DSA/tree/master/0494-target-sum) |
 | [0861-flipping-an-image](https://github.com/AdityaBharde/DSA/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/AdityaBharde/DSA/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdityaBharde/DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/AdityaBharde/DSA/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/AdityaBharde/DSA/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/AdityaBharde/DSA/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/AdityaBharde/DSA/tree/master/1250-longest-common-subsequence) |
 ## Greedy
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdityaBharde/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/AdityaBharde/DSA/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/AdityaBharde/DSA/tree/master/0494-target-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
