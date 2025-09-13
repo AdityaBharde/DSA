@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/AdityaBharde/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/AdityaBharde/DSA/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/AdityaBharde/DSA/tree/master/1250-longest-common-subsequence) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/AdityaBharde/DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1894-merge-strings-alternately](https://github.com/AdityaBharde/DSA/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AdityaBharde/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AdityaBharde/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/AdityaBharde/DSA/tree/master/0657-robot-return-to-origin) |
 | [0861-flipping-an-image](https://github.com/AdityaBharde/DSA/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/AdityaBharde/DSA/tree/master/0898-transpose-matrix) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/AdityaBharde/DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2048-build-array-from-permutation](https://github.com/AdityaBharde/DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/AdityaBharde/DSA/tree/master/2058-concatenation-of-array) |
 | [3226-minimum-number-game](https://github.com/AdityaBharde/DSA/tree/master/3226-minimum-number-game) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/AdityaBharde/DSA/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/AdityaBharde/DSA/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/AdityaBharde/DSA/tree/master/1013-fibonacci-number) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/AdityaBharde/DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Queue
 |  |
 | ------- |
