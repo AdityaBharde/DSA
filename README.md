@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdityaBharde/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/AdityaBharde/DSA/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/AdityaBharde/DSA/tree/master/0079-word-search) |
 | [0344-reverse-string](https://github.com/AdityaBharde/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AdityaBharde/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/AdityaBharde/DSA/tree/master/0657-robot-return-to-origin) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/AdityaBharde/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/AdityaBharde/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/AdityaBharde/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AdityaBharde/DSA/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/AdityaBharde/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/AdityaBharde/DSA/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/AdityaBharde/DSA/tree/master/0204-count-primes) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/AdityaBharde/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AdityaBharde/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/AdityaBharde/DSA/tree/master/0079-word-search) |
 | [0861-flipping-an-image](https://github.com/AdityaBharde/DSA/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/AdityaBharde/DSA/tree/master/0898-transpose-matrix) |
 ## Hash Table
@@ -227,9 +230,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdityaBharde/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/AdityaBharde/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AdityaBharde/DSA/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/AdityaBharde/DSA/tree/master/0494-target-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AdityaBharde/DSA/tree/master/0169-majority-element) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/AdityaBharde/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
