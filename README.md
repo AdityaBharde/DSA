@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/AdityaBharde/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/AdityaBharde/DSA/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/AdityaBharde/DSA/tree/master/1078-remove-outermost-parentheses) |
 ## Simulation
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/AdityaBharde/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/AdityaBharde/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Number Theory
 |  |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/AdityaBharde/DSA/tree/master/0079-word-search) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/AdityaBharde/DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
