@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/AdityaBharde/DSA/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/AdityaBharde/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdityaBharde/DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/AdityaBharde/DSA/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/AdityaBharde/DSA/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AdityaBharde/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/AdityaBharde/DSA/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/AdityaBharde/DSA/tree/master/1250-longest-common-subsequence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AdityaBharde/DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1768-merge-strings-alternately](https://github.com/AdityaBharde/DSA/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/AdityaBharde/DSA/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AdityaBharde/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AdityaBharde/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
