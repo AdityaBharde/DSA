@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AdityaBharde/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/AdityaBharde/DSA/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/AdityaBharde/DSA/tree/master/0494-target-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/AdityaBharde/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/AdityaBharde/DSA/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/AdityaBharde/DSA/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/AdityaBharde/DSA/tree/master/0898-transpose-matrix) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/AdityaBharde/DSA/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/AdityaBharde/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/AdityaBharde/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/AdityaBharde/DSA/tree/master/1833-find-the-highest-altitude) |
 | [1983-maximum-population-year](https://github.com/AdityaBharde/DSA/tree/master/1983-maximum-population-year) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AdityaBharde/DSA/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/AdityaBharde/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/AdityaBharde/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/AdityaBharde/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1635-number-of-good-pairs](https://github.com/AdityaBharde/DSA/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AdityaBharde/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3227-find-missing-and-repeated-values](https://github.com/AdityaBharde/DSA/tree/master/3227-find-missing-and-repeated-values) |
